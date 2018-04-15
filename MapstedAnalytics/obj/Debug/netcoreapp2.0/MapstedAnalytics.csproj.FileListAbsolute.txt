@@ -1,0 +1,10 @@
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\bin\Debug\netcoreapp2.0\MapstedAnalytics.deps.json
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\bin\Debug\netcoreapp2.0\MapstedAnalytics.runtimeconfig.json
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\bin\Debug\netcoreapp2.0\MapstedAnalytics.runtimeconfig.dev.json
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\bin\Debug\netcoreapp2.0\MapstedAnalytics.dll
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\bin\Debug\netcoreapp2.0\MapstedAnalytics.pdb
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\obj\Debug\netcoreapp2.0\MapstedAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\obj\Debug\netcoreapp2.0\MapstedAnalytics.AssemblyInfoInputs.cache
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\obj\Debug\netcoreapp2.0\MapstedAnalytics.AssemblyInfo.cs
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\obj\Debug\netcoreapp2.0\MapstedAnalytics.dll
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalytics\obj\Debug\netcoreapp2.0\MapstedAnalytics.pdb

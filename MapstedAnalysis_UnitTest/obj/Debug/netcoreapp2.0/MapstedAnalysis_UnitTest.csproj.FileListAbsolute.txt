@@ -1,0 +1,16 @@
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\obj\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\obj\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\obj\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.AssemblyInfoInputs.cache
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\obj\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.AssemblyInfo.cs
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.deps.json
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.runtimeconfig.json
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.runtimeconfig.dev.json
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.dll
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.pdb
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\MapstedAnalytics.dll
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\bin\Debug\netcoreapp2.0\MapstedAnalytics.pdb
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\obj\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.dll
+C:\Users\aaloke\Projects\MapstedAnalytics\MapstedAnalysis_UnitTest\obj\Debug\netcoreapp2.0\MapstedAnalysis_UnitTest.pdb
