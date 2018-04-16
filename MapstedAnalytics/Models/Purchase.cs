@@ -15,6 +15,6 @@ namespace MapstedAnalytics.Models
         public int ItemCategoryId { get; set; }
 
         [JsonProperty("cost")]
-        public decimal Cost { get; set; }
+        public double Cost { get; set; }
     }
 }

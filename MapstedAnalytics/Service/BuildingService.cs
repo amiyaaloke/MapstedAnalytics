@@ -11,20 +11,20 @@ namespace MapstedAnalytics.Service
 {
     public class BuildingService : IBuildingService
     {
-        private HttpClient client = new HttpClient();
+        private HttpClient _Client = new HttpClient();
 
         public BuildingService()
         {
-            client.BaseAddress = new Uri("http://jobs.mapsted.com/api/Values/GetBuildingData");
-            client.DefaultRequestHeaders.Accept.Clear();
-            client.DefaultRequestHeaders.Accept.Add(
+            _Client.BaseAddress = new Uri("http://jobs.mapsted.com/api/Values/GetBuildingData");
+            _Client.DefaultRequestHeaders.Accept.Clear();
+            _Client.DefaultRequestHeaders.Accept.Add(
                 new MediaTypeWithQualityHeaderValue("application/json"));
         }
 
         public async Task<IList<Building>> GetBuildingsAsync()
         {
             IList<Building> buildings = new List<Building>();
-            HttpResponseMessage response = await client.GetAsync(client.BaseAddress.PathAndQuery);
+            HttpResponseMessage response = await _Client.GetAsync(_Client.BaseAddress.PathAndQuery);
 
             if (response.IsSuccessStatusCode)
             {
